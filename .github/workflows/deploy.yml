@@ -18,7 +18,7 @@ jobs:
           npm run build
 
       - name: Deploy 🚀
-        uses: Stemlc21/github-pages-deploy-action@4.1.0
+        uses: https://github.com/Stemlc211/Slim-Mom
         with:
           branch: gh-pages
           folder: build
